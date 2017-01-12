@@ -1,0 +1,7 @@
+#Thu Jan 12 01:35:18 ICT 2017
+base.0=C\:\\Users\\K\\Desktop\\CarDrivingAssistance\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a1b3b3774257e8b835abab4f2c462722e7806c6d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\K\\Desktop\\CarDrivingAssistance\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e20041b241920c5a4631031186099e64099b0589\\classes.dex
+base.1=C\:\\Users\\K\\Desktop\\CarDrivingAssistance\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e20041b241920c5a4631031186099e64099b0589
+file.0=C\:\\Users\\K\\Desktop\\CarDrivingAssistance\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a1b3b3774257e8b835abab4f2c462722e7806c6d\\classes.dex

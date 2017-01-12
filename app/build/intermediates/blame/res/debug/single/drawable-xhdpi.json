@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\K\\Desktop\\CarDrivingAssistance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon.png",
+        "source": "C:\\Users\\K\\Desktop\\CarDrivingAssistance\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\K\\Desktop\\CarDrivingAssistance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alarm_clock_real.png",
+        "source": "C:\\Users\\K\\Desktop\\CarDrivingAssistance\\app\\src\\main\\res\\drawable-xhdpi\\alarm_clock_real.png"
+    },
+    {
+        "merged": "C:\\Users\\K\\Desktop\\CarDrivingAssistance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\suggestion_version.png",
+        "source": "C:\\Users\\K\\Desktop\\CarDrivingAssistance\\app\\src\\main\\res\\drawable-xhdpi\\suggestion_version.png"
+    },
+    {
+        "merged": "C:\\Users\\K\\Desktop\\CarDrivingAssistance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\settings.png",
+        "source": "C:\\Users\\K\\Desktop\\CarDrivingAssistance\\app\\src\\main\\res\\drawable-xhdpi\\settings.png"
+    }
+]
